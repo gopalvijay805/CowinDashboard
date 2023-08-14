@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.v-c-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1c2b;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.heading1 {
+  font-family: 'Roboto';
+  font-size: 26px;
+  color: #94a3b8;
+  line-height: 1.5;
+}

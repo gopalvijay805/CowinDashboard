@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #161625;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 90%;
+  max-width: 900px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+.logoImg {
+  height: 40px;
+  width: 40px;
+}
+.title {
+  color: #2cc6c6;
+  font-size: 16px;
+  font-family: 'Roboto';
+}
+.title2 {
+  color: #cdb;
+  font-size: 16px;
+  font-family: 'Roboto';
+}
